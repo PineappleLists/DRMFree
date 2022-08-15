@@ -10,6 +10,9 @@
   - [E-Books](#e-books)
   - [Music](#music)
 - [Workarounds](#workarounds)
+  - [Audiobooks](#audiobooks-1)
+  - [E-Books](#e-books-1)
+  - [Music](#music-1)
 
 ## Stores
 
@@ -29,11 +32,25 @@ Places that actually sell DRM free copies.
 
 ### Music
 
+- [List item](http://example.com)
+- [List item](http://example.com)
+
 ## Workarounds
 
 About this section. Optional. Keep this short and focus on the list.
 
 ### Audiobooks
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+### E-Books
+
+- [Calibre](https://calibre-ebook.com)
+- [List item](http://example.com)
+
+### Music
 
 - [List item](http://example.com)
 - [List item](http://example.com)
