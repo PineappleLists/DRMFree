@@ -1,7 +1,7 @@
 # DRMFree [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Places to get DRM Free versions of Media
-> Very WIP Currently
+> (Very WIP Currently)
 
 ## Contents
 
@@ -9,10 +9,14 @@
   - [Audiobooks](#audiobooks)
   - [E-Books](#e-books)
   - [Music](#music)
-- [Workarounds](#workarounds)
+- [Free Sources](#free)
   - [Audiobooks](#audiobooks-1)
   - [E-Books](#e-books-1)
   - [Music](#music-1)
+- [Workarounds](#workarounds)
+  - [Audiobooks](#audiobooks-2)
+  - [E-Books](#e-books-2)
+  - [Music](#music-2)
 
 ## Stores
 
@@ -29,6 +33,25 @@ Places that actually sell DRM free copies.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
+
+### Music
+
+- [Quboz Store](https://www.qobuz.com/shop)
+- [List item](http://example.com)
+
+## Free
+
+Free Sources for Media, Including Online Libraries.
+
+### Audiobooks
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+### E-Books
+
+- [OpenLibrary](https://openlibrary.org) by [Internet Archive](https://archive.org)
+- [Overdrive](https://www.overdrive.com)
 
 ### Music
 
